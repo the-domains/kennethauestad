@@ -1,0 +1,28 @@
+name: KennethAuestad
+favicon: null
+layout_spectrum: 0.3198960826266557
+typography_spectrum: 0.5130447393748909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7047724453732371
+  lightness: 0.18032517400570214
+  saturation: 0.057973806047812104
+  rhythmicContrast: 0.3020935144741088
+purpose: []
